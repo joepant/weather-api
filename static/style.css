@@ -1,0 +1,13 @@
+* {
+    text-align: center;
+    margin: 10px;
+}
+
+#location {
+    font-weight: 600;
+    font-size: larger;
+}
+
+p {
+    font-size: smaller;
+}
